@@ -12,5 +12,5 @@ app.get('/another',(req,res)=>{
     res.send("Otro endpoint")
 })
 app.get('/miendpointJR',(req,res)=>{
-    res.send("Mi cambio feliz");
+    res.send("Mi cambio triste :(");
 })
